@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView3" type="id" />
+    <item name="dollar1" type="id" />
+    <item name="dollar2" type="id" />
+    <item name="meter1" type="id" />
+    <item name="meter2" type="id" />
+</resources>
